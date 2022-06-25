@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoBit/static/css/main.70337591.css",
+    "main.js": "/CoBit/static/js/main.546bb86d.js",
+    "static/media/trade.png": "/CoBit/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/hero-img.png": "/CoBit/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/CoBit/index.html",
+    "main.70337591.css.map": "/CoBit/static/css/main.70337591.css.map",
+    "main.546bb86d.js.map": "/CoBit/static/js/main.546bb86d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70337591.css",
+    "static/js/main.546bb86d.js"
+  ]
+}
